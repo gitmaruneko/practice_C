@@ -1,2 +1,3 @@
-# practice_DS
-practice of data structure
+# practice_C
+practice of C language
+* Data Structure
